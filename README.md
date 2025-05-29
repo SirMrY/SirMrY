@@ -6,8 +6,7 @@ I'm a **web developer** and **Telegram bot programmer** passionate about buildin
 - 🌱 I’m continuously learning new technologies and improving my skills  
 - 👯 I’m open to collaborating on open source projects  
 - 💬 Ask me about JavaScript, Node.js, React, Python, and Telegram bots  
-- 📫 How to reach me: arya.email@example.com  
-- ⚡ Fun fact: I love solving challenges and automating tasks!
+
 
 ---
 
