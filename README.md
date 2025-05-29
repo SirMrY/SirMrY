@@ -1,4 +1,6 @@
 ## Hi there 👋
+
+My Name is Arya, and I'm an Web Dev 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 
