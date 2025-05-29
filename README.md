@@ -24,9 +24,7 @@ I'm a **web developer** and **Telegram bot programmer** passionate about buildin
 
 ### 📫 Contact
 
-- Email: arya.email@example.com  
-- LinkedIn: [linkedin.com/in/arya](https://linkedin.com/in/arya)  
-- Twitter: [twitter.com/arya](https://twitter.com/arya)
+- Telegram : @GreatSaadi
 
 ---
 
