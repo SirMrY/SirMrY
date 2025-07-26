@@ -1,14 +1,4 @@
 <!-- Header -->
-<h1 align="center">Hi There :D</h1>
-
-<!-- Github Activity -->
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SirMrY&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SirMrY&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-
-
 
 <!-- Languages & Tools Title -->
 <h2 align="center" style="margin-bottom: 30px;">Languages & Tools</h2>
