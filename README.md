@@ -24,6 +24,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
 </div>
 
+<!-- GitHub Activity Title -->
+<h2 align="center" style="margin-bottom: 30px;">GitHub Activity</h2>
 
 <!-- GitHub Activity -->
 <div align="center" style="margin-bottom: 40px;">
@@ -33,7 +35,7 @@
 
 
 <!-- Contact Section -->
-<h2 align="center" style="margin-bottom: 20px;">Contact Me</h2>
+<h2 align="center" style="margin-bottom: 20px;">👾Connect With Me</h2>
 <div align="center" style="display: flex; justify-content: center; gap: 16px;">
   <a href="https://discordapp.com/users/sirmry" target="_blank" aria-label="Discord">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="Discord" />
