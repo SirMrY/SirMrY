@@ -1,5 +1,5 @@
 <!-- Header -->
-<p align="left">Hi There :D</p>
+<h1 align="center">Hi There :D</h1>
 
 <!-- Github Activity -->
 <div align="center">
@@ -8,12 +8,7 @@
 </div>
 
 
-<!-- Discord Activity -->
-<div align="center" style="margin-bottom: 40px;">
-  <a href="https://discord.com/users/1067876468031488060" target="_blank">
-    <img src="https://lanyard.cnrad.dev/api/1067876468031488060?idleMessage=Go%20touch%20some%20grass&borderRadius=15px&theme=dark&hideBadges=true" alt="Discord Activity" />
-  </a>
-</div>
+
 
 <!-- Languages & Tools Title -->
 <h2 align="center" style="margin-bottom: 30px;">Languages & Tools</h2>
@@ -55,6 +50,13 @@
   </a>
   <a href="https://www.instagram.com/mraryaghw" target="_blank" aria-label="Instagram">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="Instagram" />
+  </a>
+</div>
+
+<!-- Discord Activity -->
+<div align="center" style="margin-bottom: 40px;">
+  <a href="https://discord.com/users/1067876468031488060" target="_blank">
+    <img src="https://lanyard.cnrad.dev/api/1067876468031488060?idleMessage=Go%20touch%20some%20grass&borderRadius=15px&theme=dark&hideBadges=true" alt="Discord Activity" />
   </a>
 </div>
 
