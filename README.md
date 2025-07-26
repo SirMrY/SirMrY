@@ -24,8 +24,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
 </div>
 
-<!-- Divider -->
-<hr style="border: 0; border-top: 0.5px solid rgba(255,255,255,0.2); margin: 40px 0;" />
 
 <!-- GitHub Activity -->
 <div align="center" style="margin-bottom: 40px;">
