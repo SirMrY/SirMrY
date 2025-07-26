@@ -33,12 +33,6 @@
   <img src="https://github-profile-trophy.vercel.app?username=SirMrY&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="GitHub Trophy" />
 </div>
 
-<!-- PacMan Contribution Graph -->
-<picture style="margin-top: 40px; margin-bottom: 40px;">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sirmry/Sirmry/output/pacman-contribution-graph-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sirmry/Sirmry/output/pacman-contribution-graph.svg" />
-  <img alt="PacMan Contribution Graph" src="https://raw.githubusercontent.com/Sirmry/Sirmry/output/pacman-contribution-graph.svg" />
-</picture>
 
 <!-- Contact Section -->
 <h2 align="center" style="margin-bottom: 20px;">Contact Me</h2>
@@ -56,6 +50,13 @@
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="20" alt="Instagram" />
   </a>
 </div>
+
+<!-- PacMan Contribution Graph -->
+<picture style="margin-top: 40px; margin-bottom: 40px;">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sirmry/Sirmry/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sirmry/Sirmry/output/pacman-contribution-graph.svg" />
+  <img alt="PacMan Contribution Graph" src="https://raw.githubusercontent.com/Sirmry/Sirmry/output/pacman-contribution-graph.svg" />
+</picture>
 
 <!-- Divider -->
 <hr style="border: 0; border-top: 0.5px solid rgba(255,255,255,0.2); margin: 40px 0;" />
